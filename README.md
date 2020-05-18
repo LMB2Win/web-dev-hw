@@ -1,2 +1,2 @@
-# web-dev-hw
-Repository for Intro Web Dev homework
+# Jarek Lapka
+My major is Psychology and I'm graduating this summer!!!
