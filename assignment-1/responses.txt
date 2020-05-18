@@ -1,0 +1,7 @@
+5. The internet connects participants while the web connects information. The web is a collection of information that uses the infrastructure of the internet.
+
+6. The internet is a cable that connects clients together with different servers. Computers break down information into packets when it is sent between people. IP addresses are used to divide devices up and a router is used to arrange the information. There are certain locations that connect many networks and send the cable to other locations. Fiber is used at sea to connect lands and countries together. This cable is divided among locations then eventually is divided to houses and businesses. There are different types of cables used at all levels of connection with fiber being the fastest connection currently available.  
+
+7. Directories are used to organize files into different groups. They are the same as folders and may have a hierarchy to organize subdirectories in the root directory. These may also be referred to in familial relationship terms. 
+
+8. A VCS lets you track changes made to a file, revert back to an old version if something doesn't work correctly, and lets you share and work with others on a file.
