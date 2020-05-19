@@ -1,0 +1,4 @@
+6. Fiber optic cable uses glass to transmit light (data) through tubing. A computer breaks down a file's bits into packets to transmit over the internet to a different computer.
+7. An IP Address is a unique address for a device. A DNS is a domain's web address broken down into an identifiable IP Address. DNS servers are broken into hierarchies such as .com or .org.
+8. A cookie is a small file stored on a computer by a website such as a user ID.
+9. The basic parts of a URL are the protocol (HTTP), domain is after the www., and the paths are instructions to navigate directories.
