@@ -5,4 +5,4 @@
 
 14. A markup language is the architecture of a page which usually focuses on text content. A common language is HTML which functions as the foundation of a page.
 
-15. [Screenshot](./images/screenshot.PNG)
+15. [Screenshot](./images/screenshot.png)
