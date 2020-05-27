@@ -5,4 +5,4 @@
 
 14. The GIT Module is a little confusing at first but I am starting to figure it out. I've always found the website to be a bit confusing as someone who just downloads releases but doesn't program.
 
-15. [Screenshot](./images/screenshot.png)
+15. [Screenshot](./images/screenshot.PNG)
