@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description"
+    content="Assignment 06 Forms">
+    <meta name="viewport"
+    content="width=device-width,
+    initial-scale=1.0"
+    <meta name="author"
+    content="Jarek Lapka">
+    <title>Assignment 06</title>
+    <style>
+      table, td {border: 1px solid black}
+    </style>
+  </head>
+
+  <body>
+    <h1>Target Missoula</h1>
+
+    <address>
+      2420 N Reserve St, Missoula, MT 59808
+      <br>
+      (406) 543-4000
+    </address>
+
+    <a href = "mailto: Press@target.com">Send Email</a>
+
+    <h3>Hours Open</h3>
+    <table>
+      <tr>
+        <th>Day</th>
+        <th>Hours</th>
+      <tr>
+        <td>Monday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Tuesday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Wednesday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Thursday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Friday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Saturday</td>
+        <td>8AM-9PM</td>
+      </tr>
+
+      <tr>
+        <td>Sunday</td>
+        <td>8AM-9PM</td>
+      </tr>
+    </table>
+
+    <br><br>
+
+    <form action="https://examplewebsite.com/registration" method="post">
+      What is your first name?
+      <input type="text" name="firstname" maxlength="10" placeholder="Matriarch">
+
+      <br><br>
+
+      <p>Are you a robot?</p>
+        <input type="radio" name="yes" value="yep" /> Yes
+        <input type="radio" name="no" value="nope" /> No
+        <input type="radio" name="sometimes" value="maybe" /> Sometimes
+
+      <br><br>
+
+      <input type="button" value="Submit"
+    </form>
+  </body>
