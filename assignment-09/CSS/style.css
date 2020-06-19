@@ -1,0 +1,29 @@
+h1 {
+  color: purple;
+}
+
+.square {
+  width: 75%;
+  rgba(0.5,0.5,0.5,0.5);
+  position: center;
+}
+
+#pink /* This is my favorite color!!! */ {
+  background-color: #ebcecb;
+  opacity: 0.9;
+}
+
+#green {
+  background-color: #75b9ae;
+  opacity: 0.9;
+}
+
+#blue {
+  background-color: #8aa3b1;
+  opacity: 0.9;
+}
+
+#peach {
+  background-color: #f4d3b3;
+  opacity: 0.9;
+}
