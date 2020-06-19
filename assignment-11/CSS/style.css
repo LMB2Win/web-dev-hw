@@ -41,6 +41,8 @@ body {
     line-height: 150px;
     color: #000;
     text-transform: uppercase;
+
+    float: inherit;
   }
 
 .logo:hover {
@@ -62,6 +64,9 @@ body {
   margin-left: 2em;
 }
 
+.site-links {
+  display: inline-block;
+}
 /* MAIN */
 .main {
   background-color: white;
