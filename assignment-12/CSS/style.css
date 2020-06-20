@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.25em;
+  text-align: center;
+
+  background-image: url(./images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/* LEFT */
+.navigation a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+
+/* Site Info */
+.site-info {
+    margin: 2em auto;
+
+    text-align: center;
+    font-size: 200%;
+}
+
+.logo {
+    background-color: #cc00cc;
+    width: 250px;
+    height: 250px;
+
+    margin: 0 auto 1em;
+
+    border: 5px solid #000;
+    border-radius: 8px;
+
+    line-height: 250px;
+    position: relative;
+    color: #FFF;
+    text-transform: uppercase;
+
+  }
+
+.logo:hover {
+  border-color: #660066;
+}
+
+
+/* Site Links */
+.site-links {
+  margin: 2em 1em;
+  font-size: 175%;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+}
+
+.site-links a {
+
+  display: inline;
+  margin: 1em
+}
+
+
+/* MAIN */
+.main {
+  background-color: #660066;
+  padding: 10px
+}
+
+h1 {
+  color: #FFF
+}
+
+h3 {
+  color: #FFF
+}
+
+.banner {
+  position: right;
+  top: 0;
+  left: 0;
+  size: auto;
+  overflow: auto;
+}
+
+
+/* Social Links */
+.social-links {
+  background-color: inherit;
+  width: inherit;
+
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  margin: 2em 1em;
+
+}
+
+.social-links img {
+  width: 7%;
+  height: auto;
+  padding: 40px;
+}
+
+.social-links img:hover {
+transform: scale(1.25);
+}
+
+.contacts {
+  color: #FFF;
+}
+
+.contacts input {
+  color: #FFF;
+}
+
+.source {
+  color: #FFF;
+}
+
+.source a {
+  text-decoration: none;
+  color: #FFF;
+}
