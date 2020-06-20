@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Staatliches', cursive;
+
+  font-size: 1.25em;
+  text-align: center;
+
+  background-image: url(./images/space.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #000;
+  position: relative;
+}
+
+/* LEFT */
+.navigation a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+
+/* Site Info */
+.site-info {
+    margin: 2em auto;
+
+    text-align: center;
+    font-size: 200%;
+    border: 10px black
+}
+
+.logo {
+    background-color: #FFF;
+    width: 400px;
+    height: 400px;
+
+    margin: 0 auto 1em;
+
+    border: 5px solid #000;
+    border-radius: 200px;
+
+    text-align: center;
+    position: relative;
+  }
+
+
+
+.logo:hover {
+  border-color: #000;
+}
+
+
+
+
+/* Site Links */
+.site-links {
+  margin: 2em 1em;
+  font-size: 175%;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  text-shadow: 1px 1px 20px #000;
+}
+
+.site-links a {
+  display: inline;
+  margin: 1em
+}
+
+
+/* MAIN */
+.main {
+  background-color: #000;
+  padding: 10px
+}
+
+h2 {
+  color: #FFF
+}
+
+h3 {
+  color: #FFF
+}
+
+.banner {
+  position: right;
+  top: 0;
+  left: 0;
+  size: auto;
+  overflow: auto;
+}
+
+
+/* Social Links */
+.social-links {
+  filter: invert(100%);
+  background-color: inherit;
+  width: inherit;
+
+  position: relative;
+  bottom: 0;
+  text-align: center;
+  margin: 2em 1em;
+
+}
+
+.social-links img {
+  width: 7%;
+  height: auto;
+  padding: 40px;
+}
+
+.social-links img:hover {
+transform: scale(1.25);
+}
+
+.contacts {
+  color: #FFF;
+}
+
+.contacts input {
+  color: #FFF;
+}
+
+.source {
+  color: #FFF;
+}
+
+.source a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.services {
+  text-align: center;
+  position: relative;
+}
+
+table, th, td {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid white;
+  padding: 10px;
+  color: #FFF;
+  font-size: 125%;
+  background-color: #000;
+}
